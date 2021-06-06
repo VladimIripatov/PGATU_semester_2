@@ -1,0 +1,24 @@
+.name{
+    background-color: lightgreen;
+    position: absolute;
+    border-radius: 10px;
+    padding: 10px;
+    left: 50px;
+    top: 40px;
+    box-shadow: 3px 3px 10px 3px;
+    font-size: 30px;
+}
+
+.text{
+    background-color: lightgreen;
+    position: absolute;
+    border-radius: 10px;
+    padding: 10px;
+    left: 50px;
+    top: 110px;
+    box-shadow: 3px 3px 10px 3px;
+}
+
+body{
+    background-image: url(Берёза.jpg);
+}
